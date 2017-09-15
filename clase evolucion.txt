@@ -1,0 +1,29 @@
+Niveles de WBS 5 a 7 (en software son 3)
+DDD: Domain Driven Design 
+Tecnica para sacar los requerimientos para los requerimientos de usuario
+
+
+Forma de las HU: ROl- para que- como contribuye al negocio
+
+En scrum hay reuniones diarias para saber como va avanzando el proyecto y definir las tareas del dia
+
+PERSPMN (Programar tareas. Se uso para llevar al hombre a la luna. Tiene la teoria que hay una tarea precedente y consiguiente, si no cumples la anterior no puedes hacer la siguiente)
+Esto se usa en project (office)´
+
+Burndown( avance real vs avance planificado)
+
+ SOA: Arquitectura orientada a servicios
+
+La viabilidad de la arquitectura se muestra de la siguiente manera: 
+	La arquitectura parte de los siguiente insumos: RF , RNF, Restricciones
+	Estas tres cosas confluyen en el backlog de requerimientos
+	Para la arquitectura lo mas importante son los RNF, y junto a las restricciones define los drivers de la arquitectura (estos son los requerimientos que guian mi arquitectura)
+	Los drivers de la arquitectura definen los requerimientos mas importantes, para definir esto se usa los Quality Atributte Workshop (QAW)
+	Para esto se confersan con los usuarios para saber cuales son los requerimientos que quieren mas, con esto se sacan los Attribute Driver Desing(ADD). Con esto se diseña la
+	arquitectura.
+	Dentro de esto esta el ATAM (tecnica) , con esto se evalua que tan buena o mala es mi arquitectura con respecto a todos mis requerimientos
+
+En software existe el rebrand, consiste en re marketear un concepto antiguo para hacerlo ver como innovacion (es repollo)
+
+
+	 
